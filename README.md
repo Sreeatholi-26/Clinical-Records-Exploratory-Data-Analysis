@@ -24,15 +24,22 @@ Readmission analysis by BMI, age group, and previous admissions
 Demographic breakdown by gender and admission type
 
 📊 Dashboards
+
 1️⃣ Patient Demographics Overview
 Age, gender, and admission type distributions
 Highlights population characteristics and admission trends
+### 🔗 Dashboard 1 — Clinical & Operational Patients Analytics
+View on Tableau Public:
+https://public.tableau.com/app/profile/sreelakshmi.atholi/viz/dashboard_1_demographics/PatientsDemographiicsOverview?publish=yes
 
 2️⃣ Clinical & Operational Patients Analytics
 Readmission relationships with BMI, cholesterol, fasting blood sugar, and previous admissions
 Cost and length‑of‑stay correlations
 Data source: healthcare_patients.csv (imported into SQL Server)
 Created by Sreelakshmi Atholi
+### 🔗 Dashboard 2 — Patient Demographics Overview
+View on Tableau Public:
+https://public.tableau.com/app/profile/sreelakshmi.atholi/viz/ClinicalOperationalPatientsAnalytics/ClinicalOperationalPatientAnalytics
 
 🚀 How to Run
 Clone the repository
