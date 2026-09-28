@@ -9,31 +9,30 @@ Project Structure
 
 Folder	Description
 
-postgresql/	SQL scripts for data validation, cleaning, and exploratory analysis.
-python/	Jupyter notebook and preprocessing scripts for data extraction and transformation.
-tableau/	Packaged Tableau dashboards for demographic and clinical insights.
-images/	Dashboard screenshots used for documentation.
-data/	Raw and cleaned datasets (CSV format).
+-> postgresql/	SQL scripts for data validation, cleaning, and exploratory analysis.
+-> python/	Jupyter notebook and preprocessing scripts for data extraction and transformation.
+-> tableau/	Packaged Tableau dashboards for demographic and clinical insights.
+-> data/	Raw and cleaned datasets (CSV format).
 
 Tools & Technologies
 
-    PostgreSQL – Data validation, cleaning, and EDA queries
+-> PostgreSQL – Data validation, cleaning, and EDA queries
 
-    Python (Pandas, Psycopg2) – Data extraction and preprocessing
+-> Python (Pandas, Psycopg2) – Data extraction and preprocessing
 
-    Tableau Public – Interactive dashboards for visualization
+->Tableau Public – Interactive dashboards for visualization
 
-    VS Code / pgAdmin – Development environment
+->VS Code / pgAdmin – Development environment
 
 Key Analyses
 
-Missing‑value and validity checks for clinical metrics
+1. Missing‑value and validity checks for clinical metrics
 
-Outlier detection for cost, blood sugar, and cholesterol
+2. Outlier detection for cost, blood sugar, and cholesterol
 
-Readmission analysis by BMI, age group, and previous admissions
+3. Readmission analysis by BMI, age group, and previous admissions
 
-Demographic breakdown by gender and admission type
+4. Demographic breakdown by gender and admission type
 
 Dashboards
 
