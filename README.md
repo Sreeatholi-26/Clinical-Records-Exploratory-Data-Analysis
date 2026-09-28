@@ -17,13 +17,13 @@ data/	Raw and cleaned datasets (CSV format).
 
 Tools & Technologies
 
-PostgreSQL – Data validation, cleaning, and EDA queries
+    PostgreSQL – Data validation, cleaning, and EDA queries
 
-Python (Pandas, Psycopg2) – Data extraction and preprocessing
+    Python (Pandas, Psycopg2) – Data extraction and preprocessing
 
-Tableau Public – Interactive dashboards for visualization
+    Tableau Public – Interactive dashboards for visualization
 
-VS Code / pgAdmin – Development environment
+    VS Code / pgAdmin – Development environment
 
 Key Analyses
 
