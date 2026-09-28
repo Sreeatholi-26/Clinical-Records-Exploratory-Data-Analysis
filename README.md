@@ -20,9 +20,9 @@ Tools & Technologies
 
 -> Python (Pandas, Psycopg2) – Data extraction and preprocessing
 
-->Tableau Public – Interactive dashboards for visualization
+-> Tableau Public – Interactive dashboards for visualization
 
-->VS Code / pgAdmin – Development environment
+-> pgAdmin – Development environment
 
 Key Analyses
 
