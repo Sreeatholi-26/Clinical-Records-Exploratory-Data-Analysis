@@ -18,11 +18,11 @@ Tools & Technologies
 
 -> PostgreSQL – Data validation, cleaning, and EDA queries
 
--> Python (Pandas, Psycopg2) – Data extraction and preprocessing
+-> Python (Pandas, Psycopg2), Jupyter Notebook – Data extraction and preprocessing
 
 -> Tableau Public – Interactive dashboards for visualization
 
--> pgAdmin – Development environment
+-> pgAdmin/VScode – Development environment
 
 Key Analyses
 
